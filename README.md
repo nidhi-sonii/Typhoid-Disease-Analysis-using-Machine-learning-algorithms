@@ -1,0 +1,1 @@
+This project aims to analyze and predict the number of Typhoid cases in the different districts in Uganda using various regression models, including Decision Tree, Random Forest, Support Vector Regression (SVR). This is with the use of environmental and population related data.
